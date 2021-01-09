@@ -28,12 +28,7 @@ experience:
     location: California
     date_start: '2017-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: ''
         
   - title: Professor
     company: University X
