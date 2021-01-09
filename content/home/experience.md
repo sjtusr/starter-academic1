@@ -30,19 +30,19 @@ experience:
     date_end: ''
     description: ''
         
-  - title: Associate Research Scholar
-    company: Department of Mechanical and Aerospace Engineering, Princeton University
+  - title: Assistant Professor
+    company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
-    location: Princeton, NJ, USA
-    date_start: '2020-4-1'
-    date_end: '2020-12-31'
+    location: Rolla, MO, USA
+    date_start: '2021-1-1'
+    date_end: ''
     description: ''
             
-  - title: Postdoctoral Research Fellow
-    company: Department of Mechanical and Aerospace Engineering, Princeton University
+  - title: Assistant Professor
+    company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
-    location: Princeton, NJ, USA
-    date_start: '2018-4-1'
-    date_end: '2020-3-31'
+    location: Rolla, MO, USA
+    date_start: '2021-1-1'
+    date_end: ''
     description: ''
 ---
