@@ -1,5 +1,5 @@
 ---
-title: "Kinetic interactions between H2 and CO in catalytic oxidation over PdO (Combustion and Flame vol. 211)"
+title: "Kinetic interactions between H2 and CO in catalytic oxidation over PdO"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,6 +10,7 @@ authors:
 - L. Zhang
 - J. Mantzaras
 - C.K. Law
+- Combustion and Flame, 211, 270-280, 2020
 
 # Author notes (optional)
 
