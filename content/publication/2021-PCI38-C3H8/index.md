@@ -8,8 +8,8 @@ authors:
 - J. Mantzaras
 - R. Sui
 - C.K. Law
-- Proceedings
 - R. Bombach
+- Proceedings of the Combustion Institute
 
 # Author notes (optional)
 
