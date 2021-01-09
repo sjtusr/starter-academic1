@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -26,15 +26,22 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
     location: Rolla, MO, USA
-    date_start: '2021'
+    date_start: '2021-1'
     date_end: ''
     description: ''
         
-  - title: Professor
-    company: University X
+  - title: Associate Research Scholar
+    company: Department of Mechanical and Aerospace Engineering, Princeton University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Princeton, New Jersey, USA
+    date_start: '2020-4-1'
+    date_end: '2020-12-31'
+    # description: Taught electronic engineering and researched semiconductor physics.
+            
+  - title: Postdoctoral Research Fellow
+    company: Department of Mechanical and Aerospace Engineering, Princeton University
+    company_url: ''
+    location: Princeton, New Jersey, USA
+    date_start: '2018-4-1'
+    date_end: '2020-4-1'
 ---
