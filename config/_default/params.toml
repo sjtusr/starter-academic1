@@ -97,7 +97,7 @@ address = {street = "233C, Toomey Hal, 400 W 13th St", city = "Rolla", region = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.953859965736264", longitude = "-91.7738188893938"}
+coordinates = {latitude = "37.95488365378572", longitude = "-91.77438707300512"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
