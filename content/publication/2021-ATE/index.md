@@ -9,7 +9,7 @@ authors:
 - Y. Yang
 - R. Sui
 - Q. Lu
-- Applied Thermal Engineering, 183(1), 116194, 2021.
+- Applied Thermal Engineering, 183(1), 116194, 2021
 
 # Author notes (optional)
 
