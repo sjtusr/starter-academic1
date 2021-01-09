@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous and homogeneous combustion of fuel-lean C3H8/O2/N2 mixtures over rhodium at pressures up to 6 bar (Proceedings of the Combustion Institute vol. 38)"
+title: "Heterogeneous and homogeneous combustion of fuel-lean C3H8/O2/N2 mixtures over rhodium at pressures up to 6 bar"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,6 +9,7 @@ authors:
 - R. Sui
 - C.K. Law
 - R. Bombach
+- Proceedings of the Combustion Institute, 38, in press, 2021.
 
 # Author notes (optional)
 
