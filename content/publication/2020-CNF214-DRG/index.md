@@ -1,5 +1,5 @@
 ---
-title: "Coupled reaction mechanism reduction for the hetero-/homogeneous combustion of syngas over platinum (Combustion and Flame vol. 214)"
+title: "Coupled reaction mechanism reduction for the hetero-/homogeneous combustion of syngas over platinum"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,6 +9,7 @@ authors:
 - W. Liang
 - J. Mantzaras
 - C.K. Law
+- Combustion and Flame, 214, 37-46, 2020
 
 # Author notes (optional)
 
