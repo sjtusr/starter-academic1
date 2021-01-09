@@ -23,15 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- # certificate_url: https://www.datacamp.com
+- certificate_url: https://www.datacamp.com
   # date_end: "2017-12-21"
   date_start: "2018"
   description: ""
   organization: Swiss National Science Foundation
-  organization_url: https://www.datacamp.com
+  # organization_url: https://www.datacamp.com
   title: Postdoctoral Fellowship
   url: ""
-- # certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2017"
   description: ""
@@ -39,7 +39,7 @@ item:
   # organization_url: https://www.coursera.org
   title: Distinguished Paper Award
   url: ""
-- # certificate_url: https://www.edx.org
+- certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2017"
   description: ""
@@ -47,7 +47,7 @@ item:
   # organization_url: https://www.edx.org
   title: Chinese Governmental Award for Outstanding Students Abroad
   url: 
-  - # certificate_url: https://www.edx.org
+- certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2012"
   description: ""
