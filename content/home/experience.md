@@ -26,7 +26,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
     location: Rolla, MO, USA
-    date_start: '2021'
+    date_start: '2021-1-1'
     date_end: ''
     description: ''
         
