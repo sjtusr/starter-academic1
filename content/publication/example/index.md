@@ -5,7 +5,7 @@ title: "An example conference paper"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-# - R. Sui
+R. Sui
 
 # Author notes (optional)
 author_notes:
@@ -13,7 +13,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2021-07-01T00:00:00Z"
-doi: "doi.org/10.1016/j.proci.2020.06.262"
+doi: "https://doi.org/10.1016/j.proci.2020.06.262"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
