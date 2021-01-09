@@ -1,32 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Ran Sui
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Missouri University of Science and Technology
+#  url: https://www.mst.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reacting Flows
+- Catalysis in Energy Systems
+- Hetero-/homogeneous Thermochemical Processes
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Mechanical Engineering
+    institution: ETH Zurich
+    url: https://www.mst.edu/
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
