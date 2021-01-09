@@ -1,5 +1,5 @@
 ---
-title: "H2 and CO heterogeneous kinetic coupling during combustion of H2/CO/O2/N2 mixtures over rhodium (Combustion and Flame vol. 202)"
+title: "H2 and CO heterogeneous kinetic coupling during combustion of H2/CO/O2/N2 mixtures over rhodium"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,6 +8,7 @@ authors:
 - R. Sui
 - J. Mantzaras
 - R. Bombach
+- Combustion and Flame, 202, 292-302, 2019
 
 # Author notes (optional)
 
