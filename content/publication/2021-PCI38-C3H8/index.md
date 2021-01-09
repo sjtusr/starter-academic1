@@ -1,5 +1,5 @@
 ---
-title: "Heterogeneous and homogeneous combustion of fuel-lean C3H8/O2/N2 mixtures over rhodium at pressures up to 6 bar"
+title: "Heterogeneous and homogeneous combustion of fuel-lean C3H8/O2/N2 mixtures over rhodium at pressures up to 6 bar (Proceedings of the Combustion Institute vol. 38)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
