@@ -27,8 +27,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Combustion and Flame*
-publication_short: In *Combust. Flame*
+publication: In *Energy & Fuels*
+publication_short: In *Energy Fuels*
 
 abstract: The catalytic and gas-phase combustion of fuel-lean H2−O2−N2 premixtures was investigated in a channel coated with platinum at pressures 1.0−3.5 bar, a range encompassing microreactors in portable power generation systems and passive hydrogen recombiners in nuclear power plants. One-dimensional Raman spectroscopy assessed the progress of catalytic hydrogen combustion, while planar laser-induced fluorescence (LIF) of the hydroxyl radical monitored gaseous combustion. Simulations were performed using a 2-D code with detailed catalytic and gas-phase reaction mechanisms and realistic transport. Both LIF measurements and simulations revealed that homogeneous combustion was vigorously sustained below ∼2.5 bar, while it was effectively suppressed at higher pressures. This was due to the intricate pressure dependency of the hydrogen gaseous ignition chemistry and the competition between catalytic and gaseous chemical reactions for hydrogen consumption. Parametric simulations determined the smallest critical channel heights allowing for appreciable gaseous combustion and their dependency on pressure, wall temperature, and inlet velocity. It was shown that for the narrower channels of catalytic microreactors homogeneous combustion was relevant only for wall temperatures above 1300 K, whereas for the wider hydrogen recombiner channels it could be relevant for wall temperatures down to 1100 K. Furthermore, at 1100 K the critical channel heights were nonmonotonic functions of pressure, reaching their peaks at 2.0−2.5 bar.
 
