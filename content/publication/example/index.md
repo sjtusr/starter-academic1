@@ -6,10 +6,6 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - R. Sui
-- J. Mantzaras
-- C.K. Law
-- R. Bombach
-- M. Khatoonabadi
 
 # Author notes (optional)
 author_notes:
