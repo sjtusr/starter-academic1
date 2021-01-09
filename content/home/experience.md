@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Academic Appointments
+title: experience
 subtitle:
 
 # Date format for experience
