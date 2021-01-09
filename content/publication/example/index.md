@@ -5,7 +5,11 @@ title: "An example conference paper"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- R. Sui, J. Mantzaras, C.K. Law, R. Bombach, M. Khatoonabadi
+- R. Sui
+- J. Mantzaras
+- C.K. Law
+- R. Bombach
+- M. Khatoonabadi
 
 # Author notes (optional)
 author_notes:
