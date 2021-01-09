@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -26,7 +26,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
     location: Rolla, MO, USA
-    date_start: '2021-01-01'
+    date_start: '2021'
     date_end: ''
     description: ''
         
