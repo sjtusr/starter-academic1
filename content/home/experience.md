@@ -30,11 +30,19 @@ experience:
     date_end: ''
     description: 
         
-  - title: Professor
-    company: University X
+  - title: Associate Research Scholar
+    company: Department of Mechanical and Aerospace Engineering, Princeton University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Princeton, NJ, USA
+    date_start: '2020-04-01'
+    date_end: '2020-12-31'
+    description: ''
+            
+  - title: Postdoctoral Research Fellow
+    company: Department of Mechanical and Aerospace Engineering, Princeton University
+    company_url: ''
+    location: Princeton, NJ, USA
+    date_start: '2018-04-01'
+    date_end: '2020-03-31'
+    description: ''
 ---
