@@ -9,6 +9,7 @@ authors:
 - E. Es-sebbar
 - J. Mantzaras
 - N.I. Prasianakis
+- Combustion Science and Technology, 190(2), 336-362, 2018
 
 # Author notes (optional)
 
