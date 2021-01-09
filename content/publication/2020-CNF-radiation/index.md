@@ -1,5 +1,5 @@
 ---
-title: "On band lumping, radiation reabsorption, and high-pressure effects in laminar flame propagation (Combustion and Flame vol. 221)"
+title: "On band lumping, radiation reabsorption, and high-pressure effects in laminar flame propagation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,6 +10,7 @@ authors:
 - W. Liang
 - H. Zhou
 - C.K. Law
+- Combustion and Flame, 221, 86-93, 2020
 
 # Author notes (optional)
 
