@@ -1,5 +1,5 @@
 ---
-title: "Hetero-/homogeneous combustion of fuel-lean CH4/O2/N2 mixtures over PdO at elevated pressures (Proceedings of the Combustion Institute vol. 37)"
+title: "Hetero-/homogeneous combustion of fuel-lean CH4/O2/N2 mixtures over PdO at elevated pressures"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,6 +9,7 @@ authors:
 - J. Mantzaras
 - E. Es-sebbar
 - R. Bombach
+- Proceedings of the Combustion Institute, 37(4), 5465-5472, 2019
 
 # Author notes (optional)
 
