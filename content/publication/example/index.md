@@ -14,7 +14,7 @@ author_notes:
 # - "Equal contribution"
 
 date: "2021-07-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.proci.2020.06.262"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
