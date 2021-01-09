@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.proci.2020.06.262"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
