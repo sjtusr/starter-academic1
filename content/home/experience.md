@@ -30,19 +30,11 @@ experience:
     date_end: ''
     description: ''
         
-  - title: Assistant Professor
-    company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
+  - title: Professor
+    company: University X
     company_url: ''
-    location: Rolla, MO, USA
-    date_start: '2021-1-1'
-    date_end: ''
-    description: ''
-            
-  - title: Assistant Professor
-    company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
-    company_url: ''
-    location: Rolla, MO, USA
-    date_start: '2021-1-1'
-    date_end: ''
-    description: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
