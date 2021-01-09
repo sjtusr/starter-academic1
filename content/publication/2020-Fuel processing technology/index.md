@@ -12,7 +12,7 @@ authors:
 - W. Yan
 - R. Sui
 - Q. Lu
-- Fuel Processing Technology, 204, 106423, 2020.
+- Fuel Processing Technology, 204, 106423, 2020
 
 # Author notes (optional)
 
