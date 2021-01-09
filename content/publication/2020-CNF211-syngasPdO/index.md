@@ -1,0 +1,78 @@
+---
+title: "Kinetic interactions between H2 and CO in catalytic oxidation over PdO (Combustion and Flame vol. 211)"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- R. Sui
+- W. Liang
+- L. Zhang
+- J. Mantzaras
+- C.K. Law
+
+# Author notes (optional)
+
+date: "2020-02-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.combustflame.2019.09.035"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Combustion and Flame*
+publication_short: In *Combust. Flame*
+
+abstract: Kinetic interactions between H2 and CO over PdO, a widely used catalyst in combustion systems, were studied experimentally and numerically. Global reaction parameters of H2 and CO oxidation over PdO were extracted from wire microcalorimetry experiments at atmospheric pressure in the temperature range 380–800K, based on which a full catalytic reaction mechanism was developed. Comparison of ig- nition temperatures and heat release rates of different H2/CO blends along with density functional theory (DFT) simulations revealed complex physicochemical coupling of the H2 and CO catalytic oxidation path- ways. The coupling evolves from an inhibiting effect of one fuel component onto the other due to their competition for surface adsorption sites and a direct repelling mechanism between the co-adsorbed H(s) and CO(s), to a promoting effect at sufficiently high temperatures caused by alleviated O(s) surface block- ing. Implications of the H2–CO kinetic coupling to the operation of practical power generation systems are outlined.
+
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ""
+#   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+# projects:
+# - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+#   slides: example
+---
