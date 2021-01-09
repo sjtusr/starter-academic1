@@ -26,7 +26,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
     location: California
-    date_start: '20wq-01-01'
+    date_start: '2021-01-01'
     date_end: ''
     description: 
         
