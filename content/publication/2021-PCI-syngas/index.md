@@ -1,5 +1,5 @@
 ---
-title: "Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar (Proceedings of the Combustion Institute vol. 38)"
+title: "Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,6 +10,7 @@ authors:
 - C.K. Law
 - R. Bombach
 - M. Khatoonabadi
+- Proceedings of the Combustion Institute, 38, in press, 2021.
 
 # Author notes (optional)
 
