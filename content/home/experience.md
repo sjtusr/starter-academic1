@@ -36,7 +36,7 @@ experience:
     location: Princeton, New Jersey, USA
     date_start: '2020-4-1'
     date_end: '2020-12-31'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: ''
             
   - title: Postdoctoral Research Fellow
     company: Department of Mechanical and Aerospace Engineering, Princeton University
@@ -44,4 +44,5 @@ experience:
     location: Princeton, New Jersey, USA
     date_start: '2018-4-1'
     date_end: '2020-4-1'
+    description: ''
 ---
