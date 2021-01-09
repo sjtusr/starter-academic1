@@ -1,5 +1,5 @@
 ---
-title: "An improved full-spectrum correlated-k-distribution model for non-gray radiative heat transfer in combustion gas mixtures (International Communications in Heat and Mass Transfer vol. 114)"
+title: "An improved full-spectrum correlated-k-distribution model for non-gray radiative heat transfer in combustion gas mixtures"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,6 +11,7 @@ authors:
 - Y. Sun
 - H. Zhou
 - Q. Lu
+- International Communications in Heat and Mass Transfer, 114, 104566, 2019.
 
 # Author notes (optional)
 
