@@ -28,7 +28,7 @@ education:
   - course: Ph.D. in Mechanical Engineering
     institution: ETH Zurich
     year: 2017
-  - course: M.Sc. in Computer Science
+  - course: M.Sc. in Computational Science
     institution: Technical University of Munich
     year: 2013
   - course: B.Eng. in Mechanical Engineering
