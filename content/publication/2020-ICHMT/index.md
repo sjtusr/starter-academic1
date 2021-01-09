@@ -11,7 +11,7 @@ authors:
 - Y. Sun
 - H. Zhou
 - Q. Lu
-- International Communications in Heat and Mass Transfer, 114, 104566, 2019.
+- International Communications in Heat and Mass Transfer, 114, 104566, 2019
 
 # Author notes (optional)
 
