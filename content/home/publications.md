@@ -37,7 +37,7 @@ design:
   view: 1
 ---
 
-{{% callout note %}}
+# {{% callout note %}}
 # Quickly discover relevant content by [filtering publications](./publication/).
 1. R. Sui, J. Mantzaras, C.K. Law, R. Bombach, M. Khatoonabadi. Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar. Proceedings of the Combustion Institute, 38, in press, 2021.
 2. J. Mantzaras, R. Sui, C.K. Law, R. Bombach. Heterogeneous and homogeneous combustion of fuel‑lean C3H8/O2/N2 mixtures over rhodium at pressures up to 6 bar. Proceedings of the Combustion Institute, 38, in press, 2021.
@@ -56,4 +56,4 @@ design:
 15. R. Sui, J. Mantzaras, E. Es-sebbar, M.A. Safi, R. Bombach. Impact of gaseous chemistry in H2-O2-N2 combustion over platinum at fuel-lean stoichiometries and pressures of 1.0-3.5 bar. Energy & Fuels, 31(10), 11448-11459, 2017.
 16. R. Sui, J. Mantzaras. Combustion stability and hetero-/homogeneous chemistry interactions for fuel-lean hydrogen/air mixtures in platinum-coated microchannels. Combustion and Flame, 173, 370-386, 2016.
 17. R. Sui, N.I. Prasianakis, J. Mantzaras, N. Mallya, J. Theile, D. Lagrange, M. Friess. An experimental and numerical investigation of the combustion and heat transfer characteristics of hydrogen fueled catalytic microreactors. Chemical Engineering Science, 141, 214-230, 2016.
-{{% /callout %}}
+# {{% /callout %}}
