@@ -1,5 +1,5 @@
 ---
-title: "Temperature and emissivity measurements from combustion of pine wood, rice husk and fir wood using flame emission spectrum (Fuel Processing Technology vol. 204)"
+title: "Temperature and emissivity measurements from combustion of pine wood, rice husk and fir wood using flame emission spectrum"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,6 +12,7 @@ authors:
 - W. Yan
 - R. Sui
 - Q. Lu
+- Fuel Processing Technology, 204, 106423, 2020.
 
 # Author notes (optional)
 
