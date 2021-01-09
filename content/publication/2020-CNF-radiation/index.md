@@ -15,7 +15,7 @@ authors:
 # Author notes (optional)
 
 date: "2020-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.applthermaleng.2020.116194"
+doi: "https://doi.org/10.1016/j.combustflame.2020.07.042"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
