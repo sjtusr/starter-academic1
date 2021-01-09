@@ -25,8 +25,8 @@ experience:
   - title: Assistant Professor
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Rolla, MO, USA
+    date_start: '2021'
     date_end: ''
     description: ''
         
