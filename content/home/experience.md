@@ -26,7 +26,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Missouri University of Science and Technology
     company_url: 'mst.edt'
     location: Rolla, Missouri, USA
-    date_start: '2021'
+    date_start: '2021-1-1'
     date_end: ''
     # description: |2-
      #     Responsibilities include:
@@ -39,7 +39,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Princeton University
     company_url: ''
     location: Princeton, New Jersey, USA
-    date_start: '2020'
+    date_start: '2020-10-1'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
             
@@ -47,6 +47,6 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Princeton University
     company_url: ''
     location: Princeton, New Jersey, USA
-    date_start: '2018'
+    date_start: '2018-4-1'
     date_end: ''
 ---
