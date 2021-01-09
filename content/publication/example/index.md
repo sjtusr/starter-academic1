@@ -9,7 +9,6 @@ authors:
 - Robert Ford
 
 # Author notes (optional)
-author_notes:
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
