@@ -8,7 +8,7 @@ authors:
 - J. Mantzaras
 - R. Sui
 - C.K. Law
-- "Proceedings of the Combustion Institute, 38, in press, 2021."
+- Proceedings
 - R. Bombach
 
 # Author notes (optional)
