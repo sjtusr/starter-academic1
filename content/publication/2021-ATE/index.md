@@ -1,5 +1,5 @@
 ---
-title: "Effects of C2H2 and C2H4 radiation on soot formation in ethylene/air diffusion flames"
+title: "Effects of C2H2 and C2H4 radiation on soot formation in ethylene/air diffusion flames (Applied Thermal Engineering vol. 183)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
