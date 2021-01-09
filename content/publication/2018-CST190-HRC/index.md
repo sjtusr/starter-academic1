@@ -1,5 +1,5 @@
 ---
-title: "Experimental and Numerical Investigation of Fuel-Lean H2/CO/ Air and H2/CH4/Air Catalytic Microreactors"
+title: "Experimental and numerical investigation of fuel-lean H2/CO/air and H2/CH4/air catalytic microreactors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
