@@ -1,12 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Homogeneous ignition of H2/CO/O2/N2 mixtures over palladium at pressures up to 8 bar"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Ran Sui
-- Robert Ford
+- R. Sui
+- J. Mantzaras
 
 # Author notes (optional)
 
