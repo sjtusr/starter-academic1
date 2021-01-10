@@ -1,5 +1,5 @@
 ---
-title: "A comparative experimental and numerical investigation of the heterogeneous and homogeneous combustion characteristics of fuel-rich methane mixtures over rhodium and platinum {{< icon name="trophy" pack="fas" >}} Distinguished Paper Award of the Combustion Institute {{< icon name="trophy" pack="fas" >}}"
+title: "A comparative experimental and numerical investigation of the heterogeneous and homogeneous combustion characteristics of fuel-rich methane mixtures over rhodium and platinum"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,7 +8,7 @@ authors:
 - R. Sui
 - J. Mantzaras
 - R. Bombach
-- Proceedings of the Combustion Institute, 36(3), 4313- 4320, 2017
+- Proceedings of the Combustion Institute, 36(3), 4313- 4320, 2017 {{<icon name="trophy" pack="fas">}} Distinguished Paper Award of the Combustion Institute {{<icon name="trophy" pack="fas">}}
 
 # Author notes (optional)
 
