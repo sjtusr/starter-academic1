@@ -71,7 +71,7 @@ highlight_name: false
 ---
 
 
-Dr. Ran Sui is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at Missouri University of Science and Technology. Prior to Missouri S&T, he was a Professional Research Staff (2020) and Postdoctoral Research Fellow (2018) at Princeton University. Dr. Sui received his Ph.D. degree in Mechanical Engineering from ETH Zurich in 2017.
+Dr. Ran Sui is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at Missouri University of Science and Technology. Prior to Missouri S&T, he was a staff scientist at Princeton University. Dr. Sui received his Ph.D. degree in Mechanical Engineering from ETH Zurich in 2017.
 
 Aiming at the utilization of environment-friendly and alternative fuels in future power generation, fuel processing and emission control, Dr. Sui's main research interests are catalytic combustion, coupling of hetero-/homogeneous thermochemical processes, and the related computational methods and experimental diagnostics. Dr. Sui's research has been honored by several awards, including a Distinguished Paper Award from the Combustion Institute in 2017.
 
