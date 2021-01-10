@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Reacting Flows
+- Reacting Flows and Combustion
 - Catalysis in Energy Systems
 - Hetero-/homogeneous Thermochemical Processes
 
