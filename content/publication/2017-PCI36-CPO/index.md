@@ -8,7 +8,7 @@ authors:
 - R. Sui
 - J. Mantzaras
 - R. Bombach
-- Proceedings of the Combustion Institute, 36(3), 4313- 4320, 2017 {{<icon name="trophy" pack="fas">}} Distinguished Paper Award of the Combustion Institute {{<icon name="trophy" pack="fas">}}
+- Proceedings of the Combustion Institute, 36(3), 4313- 4320, 2017 ***Distinguished Paper Award of the Combustion Institute***
 
 # Author notes (optional)
 
