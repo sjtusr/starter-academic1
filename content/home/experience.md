@@ -34,7 +34,7 @@ experience:
     company: Department of Mechanical and Aerospace Engineering, Princeton University
     company_url: ''
     location: Princeton, NJ, USA
-    date_start: '2020-06-01'
+    date_start: '2020-09-01'
     date_end: '2020-12-31'
     description: ''
             
@@ -43,6 +43,6 @@ experience:
     company_url: ''
     location: Princeton, NJ, USA
     date_start: '2018-04-01'
-    date_end: '2020-06-01'
+    date_end: '2020-09-01'
     description: ''
 ---
