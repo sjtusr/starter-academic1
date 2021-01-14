@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: Ph.D. in Mechanical Engineering
-    institution: ETH Zurich
+    institution: ETH Zurich, Switzerland
     year: 2017
   - course: M.Sc. in Computational Science
-    institution: Technical University of Munich
+    institution: Technical University of Munich, Germany
     year: 2013
   - course: B.Eng. in Mechanical Engineering
-    institution: Shanghai Jiao Tong University
+    institution: Shanghai Jiao Tong University, China
     year: 2010
 
 # Social/Academic Networking
