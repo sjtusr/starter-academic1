@@ -28,3 +28,4 @@ content:
 design:
   columns: '2'
 ---
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=dg1sKOXU79gSJceM9_2G8QY5JeNsKxrgonDJ5y1vC3w'></script>
