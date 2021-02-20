@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Assistant Professor of Mechanical Engineering
+url: https://people.mst.edu/faculty/rsngk/index.html
 
 # Organizations/Affiliations to show in About widget
 organizations:
