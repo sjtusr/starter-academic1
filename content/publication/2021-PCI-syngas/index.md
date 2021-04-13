@@ -10,7 +10,7 @@ authors:
 - C.K. Law
 - R. Bombach
 - M. Khatoonabadi
-- Proceedings of the Combustion Institute, 38, in press, 2021
+- Proceedings of the Combustion Institute, 38(4), 6473-6482, 2021
 
 # Author notes (optional)
 
