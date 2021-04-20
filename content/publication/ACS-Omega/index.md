@@ -11,7 +11,7 @@ authors:
 - Z. Luo
 - S. Liu
 - J.-L. Consalvi
-- ACS Omega, 6(15), 10371–10382, 2021.
+- ACS Omega, 6(15), 10371–10382, 2021
 
 # Author notes (optional)
 
