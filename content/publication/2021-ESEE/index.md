@@ -10,7 +10,7 @@ authors:
 - Y. Sun
 - Y. Yang
 - Q. Lu
-- ES Energy & Environment, in press, 2021
+- ES Energy & Environment, 12, 2021
 
 # Author notes (optional)
 
