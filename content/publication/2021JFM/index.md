@@ -11,12 +11,12 @@ authors:
 - R. Sui
 - C.K. Law
 - A. Saha
-- Journal of Fluid Mechanics, in press, 2021
+- Journal of Fluid Mechanics, 917, A53, 2021
 
 # Author notes (optional)
 
 date: "2021-04-15T00:00:00Z"
-doi: ""
+doi: "http://doi.org/10.1017/jfm.2021.330"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
