@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 
 date: "2021-04-01T00:00:00Z"
-doi: "https://pubs.acs.org/doi/abs/10.1021/acsomega.1c00740"
+doi: "https://doi.org/10.1021/acsomega.1c00740"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
