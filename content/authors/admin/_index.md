@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Ran Sui
+title: Prof. Ran Sui
 
 # Is this the primary user of the site?
 superuser: true
