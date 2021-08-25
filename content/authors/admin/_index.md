@@ -75,6 +75,8 @@ Dr. Ran Sui is an Assistant Professor in the Department of Mechanical and Aerosp
 
 Aiming at the utilization of environment-friendly and alternative fuels in future power generation, fuel processing and emission control, Dr. Sui's major research activities include catalytic combustion, coupling of hetero-/homogeneous thermochemical processes, and the related computational methods and experimental diagnostics. His research has been honored by several awards, including a [Distinguished Paper Award](https://www.combustioninstitute.org/news/advancements-in-combustion/2017-distinguished-paper-awarded-novel-combustion-concepts-technologies-and-systems/) from the Combustion Institute.
 
+Dr. Sui teaches courses in Thermodynamics (undergraduate level) and Combustion Theory (graduate level).
+
 <p style="color:red">[News]: Fully funded Ph.D. positions are available in Prof. Sui's group. Please find details {{< staticref "media/phd_and_postdoc_openings.pdf" "newtab" >}}here{{< /staticref >}}.</p>
   
 <!-- Global site tag (gtag.js) - Google Analytics -->
