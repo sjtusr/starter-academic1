@@ -14,7 +14,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2021-05-11T00:00:00Z"
+date: "2021-11-10T00:00:00Z"
 doi: "https://doi.org/10.1016/j.combustflame.2021.111699"
 
 # Schedule page publish date (NOT publication's date).
