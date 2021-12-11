@@ -10,7 +10,7 @@ authors:
 - R. Sui
 - B. Zhou
 - Q. Lu
-- Combustion and Flame, in press, 2022
+- Combustion and Flame, 235, 111699, 2022
 
 # Author notes (optional)
 
