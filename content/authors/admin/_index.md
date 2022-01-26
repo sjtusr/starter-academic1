@@ -77,7 +77,7 @@ Aiming at the utilization of environment-friendly and alternative fuels in futur
 
 Dr. Sui teaches courses in Thermodynamics (undergraduate level) and Combustion Theory (graduate level).
 
-<strike> <p style="color:red">[News]: Fully funded Ph.D. positions are available in Prof. Sui's group. Please find details {{< staticref "media/phd_and_postdoc_openings.pdf" "newtab" >}}here{{< /staticref >}}.</p> </strike> There is currently no opening position.\
+<strike> <p style="color:red">[News]: Fully funded Ph.D. positions are available in Prof. Sui's group. Please find details {{< staticref "media/phd_and_postdoc_openings.pdf" "newtab" >}}here{{< /staticref >}}. </strike> There is currently no opening position.\</p>
   
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113204203-1"></script>
