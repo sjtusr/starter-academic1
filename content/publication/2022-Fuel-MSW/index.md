@@ -10,7 +10,7 @@ authors:
 - R. Sui
 - Z. Luo
 - Q. Lu
-- Fuel, 323, 124328, 2022.
+- Fuel, 323, 124328, 2022
 
 # Author notes (optional)
 
