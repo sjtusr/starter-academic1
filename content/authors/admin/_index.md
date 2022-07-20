@@ -69,7 +69,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-<b> <p style="color:red"> [News]: Prof. Ran Sui is moving to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
+<b> <p style="color:red"> <p style="font-size:150%;"> [News]: Prof. Ran Sui is moving to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
 
 
 Dr. Ran Sui is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at [Missouri University of Science and Technology](https://www.mst.edu/). Prior to Missouri S&T, Dr. Sui was a staff scientist at [Princeton University](https://www.princeton.edu/), where he currently holds a visiting appointment. Dr. Sui received his Ph.D. degree in Mechanical Engineering from [ETH Zurich](https://ethz.ch/en.html) in 2017.
