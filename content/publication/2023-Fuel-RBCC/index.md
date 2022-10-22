@@ -1,24 +1,23 @@
 ---
-title: "xxxx"
+title: "Experimental detection of two-dimensional temperature distribution in Rocket-Based Combined Cycle combustion chamber using multispectral imaging processing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - S. Zheng
-- H. Liu
-- Q. Li
-- J. Zhu
-- M. Sun
+- W. Cai
+- B. Liu
+- S. Zhu
 - B. Zhou
 - R. Sui
 - Q. Lu
-- Fuel, 324A, 124545, 2022
+- Fuel, 333, 126391, 2023
 
 # Author notes (optional)
 
-date: "2023-11-11T00:00:00Z"
-doi: "https://doi.org/10.1016/j.fuel.2022.124545"
+date: "2023-01-10T00:00:00Z"
+doi: "https://doi.org/10.1016/j.fuel.2022.126391"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +32,8 @@ publication_types: ["2"]
 publication: In *Fuel*
 publication_short: In *Fuel*
 
-abstract: Increasing attention has been paid on combustion stability and pollution emission of aviation kerosene due to the emerging interests on supersonic combustion scramjets. Whereas, the vitiation component H2O introduced by hydrogen-fueled heaters in high-enthalpy vitiated air during ground experiments has a considerable influence on kerosene combustion, especially through its radiation effect, which needs to be further investigated. In this paper, the radiation reabsorption effects on laminar flame speeds and NO emissions during RP-3/H2O/O2/N2 combustion was assessed numerically over a wide range of equivalence ratio and pressure (ϕ = 0.7–1.4 and P = 1–15 atm) using detailed chemical and radiation models. The surrogate model of RP-3 consisted of vol. 25% 1,3,5-trimethylbenzene (C9H12), 46.31% n-decane (C10H22) and 28.69% iso-dodecane (IC12H26), while the vitiated air had 12% H2O. It was revealed that the radiation reabsorption of H2O in the vitiated air had significant impact on the accurate simulation of laminar flame speeds. As equivalence ratios varied, the role of radiation reabsorption on laminar flame speeds was most pronounced at ϕ = 0.7. As the key radical, the generation of H through the reversed step of CH2OH + H = CH3 + OH was chemically inhibited due to radiation. The radiation reabsorption effect on flame speeds was strengthened with rising pressures, with the reaction H + O2 = O + OH dominant at the pressure range 1–10 atm. In contrast, a slight increase in the impact on laminar flame speeds between 10 and 15 atm was controlled by direct radiative effect. Finally, for NO emission, the reduction of downstream temperature caused by radiative heat loss and the increment of radical concentrations induced by preheating determined radiation reabsorption effects on NO generation.
+abstract: 
+The extremely harsh environment and highly unsteady and transient nature during supersonic combustion bring great challenges for quantitative diagnostics. In the present work, for the first time, we report measurements of two-dimensional distributions of flame temperatures in a Rocket-Based Combined Cycle (RBCC) combustion chamber using a multispectral imaging technique with both spatial and spectral resolutions. The relation between the multispectral radiation intensity images and the flame 2-D temperature distributions was established by combing the Lvevenberg-Marquardt algorithm and the Hottel and Broughton emissivity models. The experimental results revealed that both laser-induced plasma (LIP) and plasma jet (PJ) torches had positive effects on combustion stabilization, and LIP had better effect on combustion enhancement. In the ignition stage of a fuel/air mixture with an equivalence ratio of 1.0, the average temperature of a flame initiated by LIP combustion enhancement was 100 K higher than that by PJ torch combustion enhancement. A recirculation zone was formed inside a cavity, which improved the combustion stability. The injected fuel and inflow were most fully mixed on the slope at the rear of the cavity, where 70 % and 65 % of the peak flame temperature points of LIP and JP were located, respectively. The combustion in the RBCC chamber showed an oscillation phenomenon that peak flame temperature and the flame structure oscillated continuously around the central axis with a horizontal extent of 162 mm. Due to the insufficient fuel blending, the oscillation amplitude was minimal when the equivalence ratio was 1.0. Overall, the results of flame temperature distributions demonstrated that the proposed multispectral thermometry was suitable for measuring temperatures of supersonic combustion flames. 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
@@ -77,4 +77,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #   slides: example
 ---
-
