@@ -1,5 +1,5 @@
 ---
-title: "Effects of radiation reabsorption on the laminar flame speed and NO emission during aviation kerosene combustion at elevated pressures"
+title: "Experimental detection of two-dimensional temperature distribution in Rocket-Based Combined Cycle combustion chamber using multispectral imaging processing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,12 +13,12 @@ authors:
 - B. Zhou
 - R. Sui
 - Q. Lu
-- Fuel, 324A, 124545, 2022
+- Fuel, 333, 126391, 2023
 
 # Author notes (optional)
 
-date: "2022-01-11T00:00:00Z"
-doi: "https://doi.org/10.1016/j.fuel.2022.124545"
+date: "2023-01-11T00:00:00Z"
+doi: "https://doi.org/10.1016/j.fuel.2022.126391"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
