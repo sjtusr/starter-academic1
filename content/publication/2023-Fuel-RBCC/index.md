@@ -1,5 +1,5 @@
 ---
-title: "Effects of radiation reabsorption on the laminar flame speed and NO emission during aviation kerosene combustion at elevated pressures"
+title: "Experimental detection of two-dimensional temperature distribution in Rocket-Based Combined Cycle combustion chamber using multispectral imaging processing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
