@@ -9,7 +9,7 @@ authors:
 - J. Mantzaras
 - Z. Liu
 - C.K. Law
-- Combustion and Flame, in press, 2022
+- Combustion and Flame, 243, 111847, 2022
 
 # Author notes (optional)
 
