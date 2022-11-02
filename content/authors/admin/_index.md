@@ -69,7 +69,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-<b> <p style="font-size:150%; color:red"> [News]: Prof. Ran Sui is moving to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
+<b> <p style="font-size:150%; color:red"> [News]: Prof. Ran Sui has moved to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
 <b> <p style="font-size:120%; color:blue"> [News]: 本课题组诚聘博士后和研究助理。Postdoctoral and RA positions are available. Interested candidates please contact sui@tsinghua.edu.cn. </p> </b>
 
 
