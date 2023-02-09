@@ -1,5 +1,5 @@
 ---
-title: "High-pressure kinetic interactions between CO and H2 during syngas catalytic combustion on PdO"
+title: "Combustion of biomass pyrolysis gas: Roles of radiation reabsorption and water content"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
