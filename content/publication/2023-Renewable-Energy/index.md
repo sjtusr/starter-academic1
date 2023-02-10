@@ -11,7 +11,7 @@ authors:
 - Y. Yang
 - R. Sui
 - Q. Lu
-- Renewable Energy, in press, 2023
+- Renewable Energy, 205, 864-872, 2023
 
 # Author notes (optional)
 
