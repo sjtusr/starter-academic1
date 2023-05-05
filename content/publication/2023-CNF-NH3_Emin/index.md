@@ -9,7 +9,7 @@ authors:
 - H. Liu
 - Y. Wang
 - X. Chen
-- R. Sui*
+- R. Sui
 - Q. Lu
 - Combustion and Flame, in press, 112832, 2023
 
