@@ -9,7 +9,7 @@ authors:
 - H. Liu
 - Y. He
 - Y. Yang
-- R. Sui*
+- R. Sui
 - Q. Lu
 - Renewable Energy, 205, 864-872, 2023
 
