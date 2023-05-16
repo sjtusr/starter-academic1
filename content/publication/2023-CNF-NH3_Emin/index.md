@@ -11,11 +11,11 @@ authors:
 - X. Chen
 - R. Sui
 - Q. Lu
-- Combustion and Flame, in press, 112832, 2023
+- Combustion and Flame, 254, 112832, 2023
 
 # Author notes (optional)
 
-date: "2023-01-09T00:00:00Z"
+date: "2023-02-09T00:00:00Z"
 doi: "https://doi.org/10.1016/j.combustflame.2023.112832"
 
 # Schedule page publish date (NOT publication's date).
