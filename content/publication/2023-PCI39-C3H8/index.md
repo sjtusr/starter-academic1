@@ -8,7 +8,7 @@ authors:
 - J. Mantzaras
 - R. Sui
 - R. Bombach
-- Proceedings of the Combustion Institute, in press, 2023
+- Proceedings of the Combustion Institute, 39(4), 5601-5610, 2023
 
 # Author notes (optional)
 
