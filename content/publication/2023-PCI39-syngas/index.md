@@ -9,7 +9,7 @@ authors:
 - J. Mantzaras
 - R. Bombach
 - M. Khatoonabadi
-- Proceedings of the Combustion Institute, in press, 2023
+- Proceedings of the Combustion Institute, 39(4), 5611-5619, 2023
 
 # Author notes (optional)
 
