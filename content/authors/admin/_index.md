@@ -82,13 +82,12 @@ Dr. Sui teaches courses in Thermodynamics (undergraduate level) and Combustion T
 
 <strike> <p style="color:red">[News]: Fully funded Ph.D. positions are available in Prof. Sui's group. Please find details {{< staticref "media/phd_and_postdoc_openings.pdf" "newtab" >}}here{{< /staticref >}}. </strike> There is currently no opening position.\</p>
   
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113204203-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3Z9LTJVQ1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-113204203-1');
+  gtag('config', 'G-Z3Z9LTJVQ1');
 </script>
-
