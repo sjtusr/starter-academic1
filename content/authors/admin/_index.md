@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 <b> <p style="font-size:150%; color:red"> [News]: This site is not maintained or updated anymore. My new homepage is www.tsinghua-suigroup.com. </p> </b>
-<b> <p style="font-size:130%; color:orange"> [News]: Prof. Ran Sui has moved to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
+<b> <p style="font-size:130%; color:purple"> [News]: Prof. Ran Sui has moved to the Center for Combustion Energy, Tsinghua University, China, as of August 2022. </p> </b>
 <b> <p style="font-size:130%; color:blue"> [Hiring]: 本课题组诚聘博士后和研究助理，欢迎访问和联培学生。Postdoctoral and RA positions are available. Interested candidates please contact sui@tsinghua.edu.cn. </p> </b>
 <b> <p style="font-size:130%; color:orange">  </p> </b>
 
